@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089172403710",
+    "firebase_url": "https://quizgamesunderground.firebaseio.com",
+    "project_id": "quizgamesunderground",
+    "storage_bucket": "quizgamesunderground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089172403710:android:377315cfc8fbceddb6fcaf",
+        "android_client_info": {
+          "package_name": "br.emerson.quizgamesunderground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089172403710-98c55akq0egja8i3cjsaslepiq0f3s0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.emerson.quizgamesunderground",
+            "certificate_hash": "9b1941016a1085dcda7368bdf4c565b25574a6e7"
+          }
+        },
+        {
+          "client_id": "1089172403710-plon7khusag4108ui32ssors5q426vf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgC64e3n5UU99DNwGdOEn0hNgqX5z3z6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089172403710-plon7khusag4108ui32ssors5q426vf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

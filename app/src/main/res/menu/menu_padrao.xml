@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/jogar"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/jogar"
+        android:title="Jogar"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/sair"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/sair"
+        android:title="Sair"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
