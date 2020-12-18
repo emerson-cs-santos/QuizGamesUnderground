@@ -10,7 +10,6 @@ import br.emerson.quizgamesunderground.Model.Pergunta
 import br.emerson.quizgamesunderground.Model.Placar
 import br.emerson.quizgamesunderground.Service.AjudaPuloService
 import kotlinx.android.synthetic.main.activity_jogo.*
-import kotlinx.android.synthetic.main.fragment_pergunta.*
 import kotlinx.android.synthetic.main.fragment_resultados.*
 import okhttp3.OkHttpClient
 import retrofit2.Call

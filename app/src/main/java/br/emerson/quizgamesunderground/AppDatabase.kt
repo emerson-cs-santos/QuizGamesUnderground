@@ -5,7 +5,7 @@ import androidx.room.RoomDatabase
 import br.emerson.quizgamesunderground.Model.Pergunta
 import br.emerson.quizgamesunderground.Service.PerguntaDao
 
-@Database(entities = arrayOf(Pergunta::class), version = 3)
+@Database(entities = arrayOf(Pergunta::class), version = 5)
 abstract class AppDatabase: RoomDatabase()
 {
     abstract fun perguntaDao(): PerguntaDao
